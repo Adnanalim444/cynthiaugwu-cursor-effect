@@ -6,3 +6,5 @@ smooth scrolling ✅
 gsap
     attach gsap
 scrolltrigger
+
+
