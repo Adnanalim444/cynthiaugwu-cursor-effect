@@ -7,4 +7,5 @@ gsap
     attach gsap
 scrolltrigger
 
+https://adnanalim444.github.io/cynthiaugwu-cursor-effect/ 
 
